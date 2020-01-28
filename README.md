@@ -3,9 +3,11 @@ A Photoshop Javascript code that saves the photoshop file as a GIF at the same f
 
 How to use this script:
 
-<a href="www.google.com">Hey </a>
+1. Watch this video about how to run scripts on Photoshop: https://www.youtube.com/watch?v=WWRh04tq_Sw
 
-1. Download it. Save at C: Program Files > Adobe > Adobe Photoshop CC 2020 > Presets > Scripts. 
+-- OR --
+
+1. Download the script. Save at C: Program Files > Adobe > Adobe Photoshop CC 2020 > Presets > Scripts. 
 2. Open Photoshop. 
 3. At Photoshop go to File > Scripts > Browse and find your script. 
 4. Once you select it will already run. 
