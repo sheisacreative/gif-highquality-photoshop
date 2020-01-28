@@ -1,4 +1,5 @@
-# saveGIF-highquality-photoshopCC
+# Save High Quality GIF | Photoshop CC
+
 A Photoshop Javascript code that saves the photoshop file as a GIF at the same folder as the psd file and with the same name. 
 
 How to use this script:
